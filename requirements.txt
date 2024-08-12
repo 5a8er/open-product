@@ -1,0 +1,14 @@
+#Django
+Django==4.1.7
+djangorestframework==3.14.0
+
+# image
+
+Pillow==9.4.0
+
+
+#Authentication
+
+
+#Database
+
